@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**yxlong-science/yxlong-science** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi there 👋 I’m Yuexuan Long (龙跃轩)
 
 Ph.D. student at the Chinese Academy of Medical Sciences and Peking Union Medical College (CAMS & PUMC), working in [Long-Lab](https://sites.google.com/view/erping-long-lab/).
@@ -38,7 +21,7 @@ I study how stochasticity in gene expression shapes cellular states and human co
 
 ---
 
-🌱## Current Focus
+## Current Focus
 - Building robust frameworks to quantify and interpret gene expression noise (e.g., enQTLs)
 - Integrating single-cell and population-scale data to map genetic determinants of cellular variability
 - Exploring LLM-driven knowledge extraction and tool development for biomedicine
