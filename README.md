@@ -26,16 +26,4 @@ I study how stochasticity in gene expression shapes cellular states and human co
 - Integrating single-cell and population-scale data to map genetic determinants of cellular variability
 - Exploring LLM-driven knowledge extraction and tool development for biomedicine
 
----
-
-## Links
-- Lab: [Long-Lab](https://sites.google.com/view/erping-long-lab/)
-- Homepage: [yxlong-science.github.io/yxlong/](https://yxlong-science.github.io/yxlong/)
-- HZAU Team: [cotton.hzau.edu.cn](https://cotton.hzau.edu.cn/index.htm)
-
----
-
-## Keywords
-gene expression noise · enQTL · single-cell genomics · statistical genetics · epigenomics · evolution · LLMs in biomedicine
-
 Find more information on my [homepage](https://yxlong-science.github.io/yxlong/).
