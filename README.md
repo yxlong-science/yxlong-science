@@ -16,8 +16,7 @@ I study how stochasticity in gene expression shapes cellular states and human co
 
 ## Education
 - B.S. & M.S., Huazhong Agricultural University (HZAU), College of Plant Science and Technology  
-  Member of Academician Zhang Xianlong’s team  
-  Link: [cotton.hzau.edu.cn](https://cotton.hzau.edu.cn/index.htm)
+  Member of Academician [Zhang Xianlong’s team](https://cotton.hzau.edu.cn/index.htm)  
 
 ---
 
