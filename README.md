@@ -25,4 +25,4 @@ I study how stochasticity in gene expression shapes cellular states and human co
 - Integrating single-cell and population-scale data to map genetic determinants of cellular variability
 - Exploring LLM-driven knowledge extraction and tool development for biomedicine
 
-Find more information on my [homepage](https://yxlong-science.github.io/yxlong/).
+Find more information on my [homepage]((https://yxlong-science.github.io).
