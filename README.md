@@ -1,6 +1,6 @@
 # Hi there 👋 I’m Yuexuan Long (龙跃轩)
 
-Ph.D. student at the Chinese Academy of Medical Sciences and Peking Union Medical College (CAMS & PUMC), working in [Long-Lab](https://sites.google.com/view/erping-long-lab/).
+Ph.D. candidate at the Chinese Academy of Medical Sciences and Peking Union Medical College (CAMS & PUMC), working in [Long-Lab](https://sites.google.com/view/erping-long-lab/).
 
 I study how stochasticity in gene expression shapes cellular states and human complex traits. My work integrates single-cell omics, genetics, and evolution, with an interest in bringing large language models (LLMs) into biomedicine.
 
